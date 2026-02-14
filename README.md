@@ -69,5 +69,9 @@ The 4 main customer profiles resulting from the model:
 * **Visualization:** Plotly (Radar Charts), Seaborn, Matplotlib
 * **Web Interface:** Streamlit
 * **Deployment:** Docker & Hugging Face Spaces
-
+  
 ---
+
+ℹ️ For more information about the dataset studied:
+
+https://archive.ics.uci.edu/dataset/292/wholesale+customers
