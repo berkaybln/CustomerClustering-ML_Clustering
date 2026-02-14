@@ -1,0 +1,4 @@
+Orginal Data: Wholesale customers data.csv
+Tables Created: "clients.csv", "purchases.csv"
+
+* The original dataset was divided into two tables and embedded in a database. During the model development phase, analysis and model development were simulated using data retrieved from a real database.
